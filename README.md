@@ -23,7 +23,7 @@ Here are some of the projects I am working on:
 
 
 ## 📫 Contact:
-Feel free to reach out to me via [https://www.linkedin.com/in/hamidreza-aghababaei-dehaghi] or email me at [hamidreza-aghababaei@aut.ac.ir & aghababaei1063@gmail.com).
+Feel free to reach out to me via LinkedIn [https://www.linkedin.com/in/hamidreza-aghababaei-dehaghi] or email me at [hamidreza-aghababaei@aut.ac.ir & aghababaei1063@gmail.com).
 
 ---
 
