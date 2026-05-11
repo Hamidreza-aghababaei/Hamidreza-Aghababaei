@@ -6,11 +6,11 @@ Welcome to my GitHub profile! 👋
 I am a **Mechanical & Aerospace Engineering student**, passionate about solving engineering problems through **simulation, data analysis**, and **numerical methods**.  
 
 ## 💡 Areas of Interest:
-- **Aerodynamics**  
 - **Dynamics & System Modeling**  
-- **Optimization**  
+- **Control & Optimization**  
 - **Computational Fluid Dynamics (CFD)**
-
+- **Aerodynamics**
+  
 ## 🛠 Skills:
 - **Python**  
 - **MATLAB**  
